@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'SEGA LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('https://www.cufonfonts.com/cdn/webfont/sega-logo-font/SEGA.woff?token=HlA3Hkx2OSrdZ8DBRzhWknoTTSfm0Z6t') format('woff');
+}
+
+h1 {
+	font-family: 'SEGA LOGO FONT';
+	font-weight: 200;
+	color: #0ccac4;
+}
